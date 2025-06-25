@@ -1,0 +1,11 @@
+[33mcommit 2f1318d6c5c47a9a969c97c956e11c785b1fed94[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: GUNDA NARESH <anushalokasani3@gmail.com>
+Date:   Mon Jun 23 21:00:58 2025 +0530
+
+    Deleted unnecessary files
+
+[33mcommit 816e616cefbf7f6775e669e39db3113ba7e83497[m
+Author: GUNDA NARESH <anushalokasani3@gmail.com>
+Date:   Mon Jun 23 20:49:39 2025 +0530
+
+    Initial commit - Java Console Calculator
